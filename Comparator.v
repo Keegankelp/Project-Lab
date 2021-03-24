@@ -71,9 +71,6 @@ module Comparator(
     
     assign oc = oc_temp;
     
-
-
-    
 endmodule
 
 
